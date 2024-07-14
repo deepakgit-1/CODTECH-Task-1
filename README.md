@@ -1,10 +1,10 @@
-Name: DEEPAKKUMAR G, 
+Name: DEEPAKKUMAR G
 
-Company: CODTECH IT SOLUTIONS,
+Company: CODTECH IT SOLUTIONS
 
-Inter ID :CT12DS1744,
+Inter ID :CT12DS1744
 
-Domain: Machine Learning,
+Domain: Machine Learning
 
 Duration: July 10/2024 to Aug 10/2024.
 
