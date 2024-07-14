@@ -48,3 +48,9 @@ Jupyter Notebooks: Interactive environment for coding and visualizing results.
 IDEs: Such as PyCharm, RStudio, Google colab and Visual Studio Code for development and debugging.
 
 
+OUTPUTS:
+
+![Screenshot 2024-07-14 145703](https://github.com/user-attachments/assets/906c20ab-4741-48c0-a986-536844095a9b)
+
+
+
