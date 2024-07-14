@@ -44,6 +44,6 @@ R Libraries: lm() function in base R, caret for model training and evaluation.
 Development Environments:
 
 Jupyter Notebooks: Interactive environment for coding and visualizing results.
-IDEs: Such as PyCharm, RStudio, and Visual Studio Code for development and debugging.
+IDEs: Such as PyCharm, RStudio, Google colab and Visual Studio Code for development and debugging.
 
 
