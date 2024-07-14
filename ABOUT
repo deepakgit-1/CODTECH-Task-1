@@ -19,7 +19,8 @@ Trend Analysis: To identify and quantify relationships between variables, provid
 Forecasting: To make future predictions based on historical data, useful in various fields such as finance, marketing, and economics.
 Optimization: To optimize processes and systems by understanding the influence of different factors on a target variable.
 Interpretability: To create a model that is easy to interpret, explaining how changes in input variables affect the output.
-Key Elements of Linear Regression
+
+Key Elements of Linear Regression:
 Dependent Variable (y): The variable you are trying to predict or explain.
 Independent Variables (X): The variables that provide the input to predict the dependent variable.
 Coefficients (β): Parameters that represent the relationship between the dependent and independent variables.
